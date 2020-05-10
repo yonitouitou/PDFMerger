@@ -6,10 +6,10 @@ Merge PDF files into a single PDF files
 
 ### Manual :
 ```
-PDFMerger.py --man
+Merger.py --man
 ```
 
 ### Command to execute the script :
 ```
-PDFMerger.py <Path/to/PDF/folder> <path/to/final/file>
+Merger.py <Path/to/PDF/folder> <path/to/final/file>
 ```
