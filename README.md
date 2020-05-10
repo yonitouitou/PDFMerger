@@ -1,6 +1,6 @@
 # PDFMerger
 
-Merge PDF files into a single PDF files
+Merge PDF files into a single PDF file
 
 ## How to run the script
 
